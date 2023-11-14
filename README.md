@@ -82,3 +82,4 @@ LLM: Large Language Model
 1. **Fine-tuning Mistral 7B using QLoRA** [Code](https://github.com/brevdev/notebooks/blob/main/mistral-finetune.ipynb)
 1. **OCR + Amazon's MistralLite for a PDF Analysis Chatbot.** [Code](https://github.com/brevdev/notebooks/blob/main/ocr-pdf-analysis.ipynb)
 1. **Hallucination Leaderboard** [Code](https://github.com/vectara/hallucination-leaderboard/)
+1. **LLM Guardrails/Hallucination Evaluation** [Code](https://confluence.ext.net.nokia.com/pages/viewpage.action?pageId=1578607869)
