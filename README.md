@@ -29,7 +29,7 @@ LLM: Large Language Model
     <td></td>
     <td></td>
 </tr>
-<tr><td colspan="2"><a href="#useful-notebooks">9. Useful Notebooks</a></td></tr>
+<tr><td colspan="2"><a href="#useful-notebooks">9. Useful Notebooks and Repos</a></td></tr>
 </table>
 
 ## [Survey papers](#content)
@@ -78,6 +78,7 @@ LLM: Large Language Model
 
 ## [LLM Explainability](#content)  
 
-## [Useful Notebooks](#content)  
+## [Useful Notebooks and Repos](#content)  
 1. **Fine-tuning Mistral 7B using QLoRA** [Code](https://github.com/brevdev/notebooks/blob/main/mistral-finetune.ipynb)
 1. **OCR + Amazon's MistralLite for a PDF Analysis Chatbot.** [Code](https://github.com/brevdev/notebooks/blob/main/ocr-pdf-analysis.ipynb)
+1. **Hallucination Leaderboard** [Code](https://github.com/vectara/hallucination-leaderboard/)
