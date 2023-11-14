@@ -29,7 +29,7 @@ LLM: Large Language Model
     <td></td>
     <td></td>
 </tr>
-<tr><td colspan="2"><a href="#useful-notebooks">9. Useful Notebooks and Repos</a></td></tr>
+<tr><td colspan="2"><a href="#useful-notebooks and repos">9. Useful Notebooks and Repos</a></td></tr>
 </table>
 
 ## [Survey papers](#content)
