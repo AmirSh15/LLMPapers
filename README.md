@@ -43,13 +43,17 @@ LLM: Large Language Model
 ## [Methods](#content)   
 
 ### [In-context Learning](#content)
-1. **n-Context Learning Creates Task Vectors.** arXiv, 2023. [paper](https://arxiv.org/pdf/2310.15916.pdf)
+1. **In-Context Learning Creates Task Vectors.** arXiv, 2023. [paper](https://arxiv.org/pdf/2310.15916.pdf)
 
    *Hendel, Roee, Mor Geva, and Amir Globerson.*
    
 1. **Iterative Forward Tuning Boosts In-context Learning in Language Models** arXiv, 2023. [paper](https://arxiv.org/pdf/2305.13016.pdf)
 
    *Yang, Jiaxi, et al.*
+
+1. **In-context Vectors: Making In Context Learning More Effective and Controllable Through Latent Space Steering** arXiv, 2023. [paper](https://arxiv.org/abs/2311.06668)
+
+	*Sheng L., et al.*
 
 ## [Fine-tuning](#content) 
 1.  **How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition.** arXiv, 2023. [paper](https://arxiv.org/pdf/2310.05492.pdf)
@@ -93,6 +97,10 @@ LLM: Large Language Model
    *Li, Y., et al.*
 
 1. **Tell Your Model Where to Attend: Post-hoc Attention Steering for LLMs** arXiv, 2023. [paper](https://arxiv.org/pdf/2311.02262.pdf) [Code](https://github.com/QingruZhang/PASTA)
+
+1. **In-context Vectors: Making In Context Learning More Effective and Controllable Through Latent Space Steering** arXiv, 2023. [paper](https://arxiv.org/abs/2311.06668)
+
+	*Sheng L., et al.*
 
 ## [LLM Explainability](#content)  
 
