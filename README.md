@@ -14,7 +14,7 @@ LLM: Large Language Model
 </tr>
 <tr><td colspan="2"><a href="#fine-tuning">4. Fine-tuning</a></td></tr>
 <tr>
-    <td>&emsp;<a href="#post-ft">2.1 Post FT</a></td>
+    <td>&emsp;<a href="#post-ft">4.1 Post FT</a></td>
     <td></td>
 </tr>
 <tr><td colspan="2"><a href="#quantization">5. Quantization</a></td></tr>
@@ -39,6 +39,11 @@ LLM: Large Language Model
 1. **Attention is all you need.** NeuIPS 2017. [paper](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 
     *Vaswani, Ashish, et al.*
+
+1. **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models** arXiv, 2023. [paper](https://arxiv.org/pdf/2201.11903.pdf)
+
+	*Jason Wei, et al.*
+
    
 ## [Methods](#content)   
 
@@ -90,6 +95,15 @@ LLM: Large Language Model
 1. **ARES: An Automatic Evaluation Framework for Retrieval-Augmented Generation (RAG)** arXiv, 2023. [Tweet](https://x.com/JonSaadFalcon/status/1724998954402935061?s=20) [Paper](https://arxiv.org/pdf/2311.09476.pdf) [Code](https://github.com/stanford-futuredata/ARES/)
 
    *Jon Saad-Falcon, et al.*
+1. **RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval** arXiv, 2024. [paper](https://arxiv.org/pdf/2401.18059.pdf)
+	
+ 	*Parth Sarthi, et al.*
+
+1. **Seven Failure Points When Engineering a Retrieval Augmented Generation System** arXiv, 2024. [paper](https://arxiv.org/pdf/2401.05856.pdf)
+	
+ 	*Scott Barnett, et al.*
+
+1. **12 RAG Pain Points and Proposed Solutions** [Medium](https://medium.com/towards-data-science/12-rag-pain-points-and-proposed-solutions-43709939a28c)
 	
 ## [Cool Ideas](#content)  
 1. **RAIN: Your Language Models Can Align Themselves without Finetuning.** arXiv, 2023. [paper](https://arxiv.org/pdf/2309.07124.pdf) [Code](https://github.com/SafeAILab/RAIN)
@@ -101,6 +115,10 @@ LLM: Large Language Model
 1. **In-context Vectors: Making In Context Learning More Effective and Controllable Through Latent Space Steering** arXiv, 2023. [paper](https://arxiv.org/abs/2311.06668)
 
 	*Sheng L., et al.*
+
+1. **The Power of Noise: Redefining Retrieval for RAG Systems** arXiv, 2024. [paper](https://arxiv.org/pdf/2401.14887.pdf)
+
+	*Florin Cuconasu, et al.* 
 
 ## [LLM Explainability](#content)  
 
